@@ -1,5 +1,0 @@
-*.log
-.vscode/
-.idea/
-__pycache__/
-bin/
